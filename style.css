@@ -166,6 +166,10 @@ li {
 	letter-spacing: 1.5px;
 }
 
+footer {
+	position: absolute;
+	bottom: 0;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
